@@ -75,7 +75,7 @@ const Card: React.FC<CardProps> = ({
   footerText = 'Footer',
 }) => (
   <Wrapper backgroundColor={backgroundColor} color={color} disabled={disabled}>
-    <CardImage src={imageSrc} alt={imageAlt.,.} disabled={disabled} />
+    <CardImage src={imageSrc} alt={imageAlt} disabled={disabled} />
     <Body>
       <Title disabled={disabled}>{title}</Title>
       <Description disabled={disabled}>{description}</Description>
