@@ -48,8 +48,8 @@ const Row = styled.div`
   align-items: flex-start;
 `;
 const Divider = styled.hr`
-  border: none
-  border-top: 1px solid #e5e7eb;
+  border: none;
+  border-top: 1px solid #e5e7eb
   margin: 1.25rem 0;
 `;
 
