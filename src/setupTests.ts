@@ -1,3 +1,1 @@
-import '@testing-library/jest-dom'; 
-
-const=x
+import '@testing-library/jest-dom';
